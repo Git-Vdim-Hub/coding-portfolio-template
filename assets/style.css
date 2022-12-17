@@ -1,0 +1,42 @@
+/*  */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* webpage bakcground color */
+body{
+    background-color:rgb(188, 201, 201);
+}
+
+/*  */
+.header{
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color:rgb(188, 201, 201);
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+.header h1 {
+    color:rgb(188, 201, 201);
+    background-color: aquamarine;
+    display: inline-block;
+    font-size:48px;
+}
+
+.header nav ul{
+    list-style-type:none;
+    display:flex;
+}
+
+.header nav ul li{
+    display: inline-block;
+    margin-left: 10px;
+}
+a{
+    color:aquamarine;
+    font-weight: 900;
+}

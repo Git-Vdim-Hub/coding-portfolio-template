@@ -125,6 +125,10 @@ article {
     border: 5px solid rgb(24, 170, 153);
 }
 
+.largeImage:hover {
+    opacity: 85%;
+}
+
 .largeImage div{
     background-color: rgb(24, 170, 153);
     color:rgb(206, 206, 17);
@@ -157,6 +161,11 @@ article {
     border: 5px solid rgb(24, 170, 153);
     
 }
+
+.smallImage1:hover {
+    opacity: 85%;
+}
+
 .smallImage1 div{
     background-color: rgb(24, 170, 153);
     color:rgb(206, 206, 17);
@@ -181,6 +190,11 @@ article {
     padding-bottom: 2%;
     border: 5px solid rgb(24, 170, 153);
 }
+
+.smallImage2:hover {
+    opacity: 85%;
+}
+
 .smallImage2 div{
     background-color: rgb(24, 170, 153);
     color:rgb(206, 206, 17);
@@ -205,6 +219,10 @@ article {
     padding-bottom: 2%;
     border: 5px solid rgb(24, 170, 153);
 }
+.smallImage3:hover {
+    opacity: 85%;
+}
+
 .smallImage3 div{
     background-color: rgb(24, 170, 153);
     color:rgb(206, 206, 17);
@@ -227,6 +245,10 @@ article {
     align-items: flex-end;
     padding-bottom: 2%;
     border: 5px solid rgb(24, 170, 153);
+}
+
+.smallImage4:hover {
+    opacity: 85%;
 }
 .smallImage4 div{
     background-color: rgb(24, 170, 153);

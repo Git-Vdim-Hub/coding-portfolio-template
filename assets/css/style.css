@@ -118,7 +118,6 @@ article {
     background-position: center;
     display:flex;
     align-items: flex-end;
-    /* flex-direction: row-reverse; */
     padding-bottom: 1%
 }
 
@@ -156,7 +155,11 @@ article {
     color:rgb(206, 206, 17);
     font-size:30px;
     display: flex;
-    align-items:flex-end;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.smallImage1 div p{
+    font-size: 50%;
 }
 
 .smallImage2{
@@ -175,7 +178,12 @@ article {
     color:rgb(206, 206, 17);
     font-size:30px;
     display: flex;
-    align-items:flex-end;
+    flex-direction: column;
+    align-items:flex-start;
+}
+
+.smallImage2 div p{
+    font-size: 50%;
 }
 .smallImage3{
     height: 150px;
@@ -193,7 +201,11 @@ article {
     color:rgb(206, 206, 17);
     font-size:30px;
     display: flex;
-    align-items:flex-end;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.smallImage3 div p{
+    font-size: 50%;
 }
 .smallImage4{
     height: 150px;
@@ -204,14 +216,18 @@ article {
     background-position: center;
     display:flex;
     align-items: flex-end;
-    padding-bottom: 1%
+    padding-bottom: 2%
 }
 .smallImage4 div{
     background-color: rgb(24, 170, 153);
     color:rgb(206, 206, 17);
     font-size:30px;
     display: flex;
-    align-items:flex-end;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.smallImage4 div p{
+    font-size: 50%;
 }
 footer{
     height: 100px;

@@ -17,12 +17,12 @@ No additional installation/resources are required to deploy the webpage
 - Click link to view deployed webpage: [Github Pages](https://git-vdim-hub.github.io/coding-portfolio-template/)
 
 
-- Desktop Screenshot
+- Screenshot
+
+
     ![Desktop Version](./assets/images/webpageScreenCaptureDesktop.JPG)
-- Mobile Screenshot
-    ![Mobile Version](./assets/images/mobile1.JPG)
-    ![Mobile Version](./assets/images/mobile2.JPG)
-    ![Mobile Version](./assets/images/mobile3.JPG)
+
+
     
 
 ## Credits
